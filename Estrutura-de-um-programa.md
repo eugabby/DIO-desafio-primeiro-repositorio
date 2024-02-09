@@ -1,0 +1,4 @@
+# Estrutura de um Programa
+As features (ou funcionalidades) em um aplicativo são as diferentes tarefas ou funções que o aplicativo pode realizar. Por exemplo, se um aplicativo de câmera tem uma funcionalidade de zoom, essa é uma feature. As features podem variar dependendo do aplicativo e do seu propósito.
+
+![Legenda](https://helpful-jump-17b.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5e4f5bf8-a259-4735-a734-7e05fb318d6c%2Fshapes_(1).png?table=block&id=5d8eabaf-656c-4efc-bcd3-119241aae79e&spaceId=88e4dc6b-f3c4-4b5b-bb05-18f02b6815fb&width=2000&userId=&cache=v2)
