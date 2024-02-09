@@ -49,8 +49,8 @@ A encriptação gera conjunto de 40 caracteres identificador de 40 dígitos.
 - Ls 
 - Ls –a (mostra pasta oculta) 
 - Cd .git/ 
-- git config --global user.email gdossantospereiradasilva@gmail.com 
-- git config --global user.name eugabby 
+- git config --global user.email "Digite seu e-mail" 
+- git config --global user.name "Digite seu usuário" 
 
 **Adicionando um arquivo:** 
 
